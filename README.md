@@ -52,10 +52,6 @@ This project is ideal for beginners learning HTML basics:
 
 ---
 
-## 📸 Screenshot (Optional)
-*(Add a screenshot of the page here if needed)*
-
----
 
 ## ⚡ Notes
 - This project intentionally contains **no CSS or JavaScript** to focus solely on HTML structure.
